@@ -1,0 +1,3 @@
+rootProject.name = 'loginapp'
+
+include ':app'
